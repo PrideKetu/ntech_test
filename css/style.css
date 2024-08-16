@@ -1,0 +1,20 @@
+
+
+.home{
+  background-color: #e2e4eb;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 5px;
+}
+.iconav {
+  display: flex;
+  gap: 15px;
+  margin-right: 70px;
+  justify-items: right;
+}

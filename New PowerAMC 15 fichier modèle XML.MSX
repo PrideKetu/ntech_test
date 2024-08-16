@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner AppLocale="Cp1252" ID="{58743342-6853-4A4A-BFB8-EC5108EC4775}" Label="" Name="ModeleXML_1" Objects="4" Symbols="0" Target="XML Schema Definition 1.0" Type="{029EAF0C-06EE-4282-8CB2-D70732085DEF}" signature="XSM_MODEL" version="15.1.0.2840"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
+
+<o:RootObject Id="o1">
+<c:Children>
+<o:Model Id="o2">
+<a:ObjectID>58743342-6853-4A4A-BFB8-EC5108EC4775</a:ObjectID>
+<a:Name>Modele XML</a:Name>
+<a:Code>MODELE_XML</a:Code>
+<a:Namespaces>http://www.w3.org/2001/XMLSchema	xs</a:Namespaces>
+<c:SchemaLanguage>
+<o:Shortcut Id="o3">
+<a:ObjectID>4D5D7569-FBE2-47BE-96CE-E9C14C61385F</a:ObjectID>
+<a:Name>XML Schema Definition 1.0</a:Name>
+<a:Code>XML Schema Definition</a:Code>
+<a:TargetID>35C78E17-809A-4234-A469-846E88A581E9</a:TargetID>
+<a:TargetClassID>40249E0F-D7DA-41DC-8056-6199DCA3A7D8</a:TargetClassID>
+</o:Shortcut>
+</c:SchemaLanguage>
+<c:XsmDiagrams>
+<o:XMLDiagram Id="o4">
+<a:ObjectID>EC73FA9C-6235-4566-B601-633AB91C29E9</a:ObjectID>
+<a:Name>Diagramme_1</a:Name>
+<a:Code>DIAGRAMME_1</a:Code>
+</o:XMLDiagram>
+</c:XsmDiagrams>
+<c:TargetModels>
+<o:TargetModel Id="o5">
+<a:ObjectID>19DEC73E-6D9F-4263-A011-B1046D4DF9F4</a:ObjectID>
+<a:Name>XML Schema Definition 1.0</a:Name>
+<a:Code>XML Schema Definition</a:Code>
+<a:TargetModelURL>file:///%_XMLLANG%/xsd.xsl</a:TargetModelURL>
+<a:TargetModelID>35C78E17-809A-4234-A469-846E88A581E9</a:TargetModelID>
+<a:TargetModelClassID>40249E0F-D7DA-41DC-8056-6199DCA3A7D8</a:TargetModelClassID>
+<c:SessionShortcuts>
+<o:Shortcut Ref="o3"/>
+</c:SessionShortcuts>
+</o:TargetModel>
+</c:TargetModels>
+</o:Model>
+</c:Children>
+</o:RootObject>
+
+</Model>
